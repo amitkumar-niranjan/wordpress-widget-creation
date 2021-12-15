@@ -1,11 +1,11 @@
 <?php
 /*
  *Plugin Name: My Custom Widget
- *Plugin Uri: http:htcindia.com 
+ *Plugin Uri: https://amitkumar.niranjan 
  * Description: this plugin save input data
  * Version: 1.0
  * Author: Amit Kumar
- * Author Uri: https://htcindia.com
+ * Author Uri: https://amitkumar.niranjan
  * License: GPL2
  */
 
